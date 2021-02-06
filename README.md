@@ -1,2 +1,2 @@
-# Android-MVVMEx02
-Android MVVM RecyclerView, LiveData
+# Android-Java-MVVMEx02
+Android Java MVVM RecyclerView, LiveData
